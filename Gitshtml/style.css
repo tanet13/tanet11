@@ -1,0 +1,33 @@
+body{
+    background-color: aliceblue;
+
+}
+
+.a{
+    background-color: rgb(26, 71, 71);
+    padding: 20px;
+    margin: 20px;
+   
+
+}
+.main-content{
+    max-width: 700px;
+    margin: auto; 
+}
+
+.top{
+    background-color: rgb(16, 124, 124); 
+    padding: 20px;
+        
+}
+
+footer{
+    background-color: rgb(26, 71, 71); 
+    padding: 20px;
+    text-align: center;     
+}
+
+img{
+    width: 100%;
+
+}
